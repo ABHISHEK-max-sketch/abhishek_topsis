@@ -34,6 +34,7 @@ python topsis.py <inputFileName> <weights> <impacts> <resultFileName>
   - Ensures correct number of inputs.
   - Validates weights, impacts, and column counts.
   - Handles missing or invalid files.
+  - For installation use : pip install abhishek-topsis
 - **Error Handling**:
   - Displays user-friendly messages for issues like file not found, non-numeric data, or mismatched input parameters.
 - **Output**:
