@@ -4,7 +4,8 @@
 
 ## Overview
 This Python script implements the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method for multi-criteria decision-making. It calculates the performance score and rank for given data based on user-defined weights and impacts.
-
+Link for packet : https://pypi.org/project/abhishek-topsis/
+For installation use : pip install abhishek-topsis
 ---
 
 ## Usage
